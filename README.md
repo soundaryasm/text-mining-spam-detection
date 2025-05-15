@@ -16,3 +16,6 @@ This project builds a machine learning model to classify SMS messages as **Spam*
 - scikit-learn
 - pandas, NumPy
 - NLTK (or similar for text preprocessing)
+
+## Link for the Dataset
+- https://archive.ics.uci.edu/dataset/228/sms+spam+collection
